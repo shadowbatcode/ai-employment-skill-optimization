@@ -1,6 +1,7 @@
 # AI Employment Skill Optimization
 
 该项目研究生成式 AI 对就业结构、职业竞争关系与技能培养路径的影响，并尝试通过参数拟合与优化方法，为教育资源投入和技能提升方案提供可计算的决策支持。
+<img width="1744" height="894" alt="image" src="https://github.com/user-attachments/assets/1684de59-4579-430c-9759-572f2d03470f" />
 
 ## Project Goals
 

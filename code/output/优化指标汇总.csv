@@ -1,0 +1,4 @@
+category,MSE,RMSE,MAE,total_allocation,efficiency,convergence
+STEM,0.002742,0.052362,0.022288,1.0,0.0524,Success
+Trade,0.004021,0.063415,0.022741,1.0,0.0634,Success
+Arts,0.005388,0.073403,0.02838,0.4591,0.1599,Success

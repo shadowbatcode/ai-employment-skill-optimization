@@ -1,0 +1,149 @@
+[
+  {
+    "category": "STEM",
+    "project_index": 1,
+    "project_name": "增加AI基础课",
+    "allocation": 0.0979,
+    "percentage": "9.8%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 2,
+    "project_name": "开设AI伦理专题",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 3,
+    "project_name": "增加项目实践",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 4,
+    "project_name": "邀请业界专家",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 5,
+    "project_name": "更新实验设备",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 6,
+    "project_name": "增加创业项目",
+    "allocation": 0.6521,
+    "percentage": "65.2%"
+  },
+  {
+    "category": "STEM",
+    "project_index": 7,
+    "project_name": "开展校园碳足迹数据分析竞赛",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 1,
+    "project_name": "更新厨房设备",
+    "allocation": 0.1712,
+    "percentage": "17.1%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 2,
+    "project_name": "引入AI设计软件",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 3,
+    "project_name": "增加营养学课程",
+    "allocation": 0.2146,
+    "percentage": "21.5%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 4,
+    "project_name": "建立多感官工作坊",
+    "allocation": 0.3402,
+    "percentage": "34.0%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 5,
+    "project_name": "开设行业大师班",
+    "allocation": 0.124,
+    "percentage": "12.4%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 6,
+    "project_name": "参加实习项目",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Trade",
+    "project_index": 7,
+    "project_name": "开设厨余垃圾再利用课程",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 1,
+    "project_name": "AI技术工作坊",
+    "allocation": 0.0694,
+    "percentage": "6.9%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 2,
+    "project_name": "跨学科合作项目",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 3,
+    "project_name": "行业实习实践",
+    "allocation": 0.4917,
+    "percentage": "49.2%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 4,
+    "project_name": "传统表演深化",
+    "allocation": 0.2389,
+    "percentage": "23.9%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 5,
+    "project_name": "批判理论课程",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 6,
+    "project_name": "开设舞台沟通课程",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  },
+  {
+    "category": "Arts",
+    "project_index": 7,
+    "project_name": "开设全球文化课程",
+    "allocation": 0.05,
+    "percentage": "5.0%"
+  }
+]

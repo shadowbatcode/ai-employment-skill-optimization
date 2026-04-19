@@ -1,0 +1,29 @@
+[
+  {
+    "category": "STEM",
+    "MSE": 0.045056,
+    "RMSE": 0.212264,
+    "MAE": 0.09851,
+    "total_allocation": 1.0,
+    "efficiency": 0.2123,
+    "convergence": "Success"
+  },
+  {
+    "category": "Trade",
+    "MSE": 0.006365,
+    "RMSE": 0.079784,
+    "MAE": 0.031251,
+    "total_allocation": 1.0,
+    "efficiency": 0.0798,
+    "convergence": "Success"
+  },
+  {
+    "category": "Arts",
+    "MSE": 0.003822,
+    "RMSE": 0.061821,
+    "MAE": 0.030425,
+    "total_allocation": 1.0,
+    "efficiency": 0.0618,
+    "convergence": "Success"
+  }
+]
